@@ -1,0 +1,45 @@
+.calculator{
+  /* text-align: center; */
+  box-shadow: 0px 3px 8px 3px #888888;;
+  margin-inline: 400px;
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  /* padding-bottom: 50px; */
+  /* padding-top: 5px; */
+  border-radius: 10px;
+}
+.input{
+  width: 97%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: right;
+  padding-right: 10px;
+  outline: none;
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #ccc;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.day button{
+  margin-right: 35px;
+  border: 1px solid #ccc;
+  background-color: #ccc;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.tier button{
+  margin-right: 35px;
+  border: 1px solid #ccc;
+  background-color: #ccc;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
